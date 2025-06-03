@@ -1,5 +1,4 @@
 👋 Ciao! Sono Gabriele Rocchi, ho 16 anni e frequento l’ITIS Ettore Majorana, indirizzo Informatica.
-
 🎓 Sono uno studente appassionato di tecnologia, programmazione e innovazione. Fin da piccolo coltivo una forte curiosità verso il mondo del software, con l’obiettivo di diventare uno sviluppatore software professionista, con competenze solide e sempre aggiornate.
 
 ⚽️ Oltre all’informatica, la mia più grande passione è il calcio, che pratico a livello agonistico da oltre 11 anni. Lo sport mi ha insegnato l’importanza della disciplina, del lavoro di squadra e della determinazione, valori che porto anche nella mia crescita personale e professionale.
