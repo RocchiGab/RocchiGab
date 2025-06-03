@@ -2,7 +2,7 @@
 
 🎓 Studente presso **ITIS Majorana** con una grande passione per la tecnologia, il software e l’innovazione.
 la mia più grande passione è il calcio, l,ho pratico a livello agonistico da 11 anni
-Il mio obiettivo è diventare uno **sviluppatore software** professionista, con solide competenze in programmazione, sviluppo web e intelligenza artificiale.
+Il mio obiettivo è diventare uno **sviluppatore software** professionista, con solide competenze in programmazione, 
 
 ---
 
