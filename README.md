@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Gabriele Rocchi,ho 16 anni
+# 👋 Ciao! Sono Gabriele Rocchi,ho 16 anni,frequento l'itis ettore majorana indirizzo informatico
 
 🎓 Studente presso **ITIS Majorana** con una grande passione per la tecnologia, il software e l’innovazione.
 la mia più grande passione è il calcio, l,ho pratico a livello agonistico da 11 anni
