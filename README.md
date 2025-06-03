@@ -1,4 +1,4 @@
-# 👋 Ciao! Sono Gabriele Rocchi
+# 👋 Ciao! Sono Gabriele Rocchi,ho 16 anni
 
 🎓 Studente presso **ITIS Majorana** con una grande passione per la tecnologia, il software e l’innovazione.  
 Il mio obiettivo è diventare uno **sviluppatore software** professionista, con solide competenze in programmazione, sviluppo web e intelligenza artificiale.
