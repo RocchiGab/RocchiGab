@@ -9,7 +9,6 @@ Il mio obiettivo è diventare uno **sviluppatore software** professionista, con 
 ## 💻 Competenze & Interessi
 
 - 🌐 **Sviluppo Web** – HTML, CSS, JavaScript
-- 🐍 **Programmazione** – Python, Java
 - 🧠 **AI e Machine Learning** – Curiosità e sperimentazione
 - 📁 **Progetti Open Source** – Collaborazione e crescita condivisa
 
