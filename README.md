@@ -17,8 +17,7 @@ Il mio obiettivo è diventare uno **sviluppatore software** professionista, con 
 
 Se vuoi metterti in contatto con me per collaborazioni o progetti scolastici:
 
-- 📧 Email: *(aggiungi la tua se vuoi)*
-- 💼 LinkedIn: *(opzionale, se hai un profilo)*
+- 📧 Email: gabrielerocchi1201@gmail.com
 
 ---
 
